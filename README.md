@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">Aspiring passionate full stack developer from India</h3>
 
-
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th?id=OIP.IBoPzgI7K2WQprGKT91PFgHaEq&w=155&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumar6204&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumar6204" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkumar6204" alt="sagarkumar6204" /></a> </p>
 
 - 🌱 I’m currently learning **MERN & MEAN**
 
