@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
-<h3 align="center">Aspiring passionate full stack developer from India</h3>
+<h3 align="center">Aspiring passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th?id=OIP.IBoPzgI7K2WQprGKT91PFgHaEq&w=155&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
