@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sagar Kumar
 **A passionate Software Developer**
 
-Email Me 👉 ✉️ **sagarkumar6204@gmail.com**
+Email Me 👉 ✉️  **sagarkumar6204@gmail.com**
 
 - 🔭 **I’m currently working on:** Real-world full-stack web applications, focusing on scalable, maintainable, and production-ready solutions.
   
